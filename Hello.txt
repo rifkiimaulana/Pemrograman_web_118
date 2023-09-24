@@ -1,1 +1,5 @@
-Hello Word
+Haii... Dunia !!
+
+Saya sedang belajar menggunakan git
+
+Saya pasti bisa !!
